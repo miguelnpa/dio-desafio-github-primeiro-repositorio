@@ -30,5 +30,36 @@ No caso de um classe que herda um construtor com a necessidade de dizer parâmet
 ex.: 
 public Aluno(string nome, string sobrenome) : base(nome, sobrenome)
 
+## Getters e Setters
+
+### Introdução Get e Set
+
+O Get e Set serve para que se possa atribuir um valor em uma variável de maneira controla e com validações
+
+O Get obtém o valor de uma propriedade e o Set vai atribuir um valor para a propriedade ( quando for atribuir o valor, pode-se fazer uma validação)
+
+### Propriedades
+
+As propriedades nada mais é do que uma maneira de unificar o GET e o SET, podendo ter validações ou não
+
+## Modificadores
+
+### Introdução readonly
+O modificador readonly ( somente leitura) bloqueia um campo contra alterações que não sejam em sua inicialização ou pelo próprio construtor.
+
+### Constante
+
+Uma constante representa um valor que somente pode ser atribuído no momento de sua inicialização, e não pode ser modificado posteriormente.
+
+## Delegates
+
+### Introdução Delegates
+
+Um delegate é uma maneira de passar um método como referência, podendo ser usado como um callback, aceitando qualquer método que contenha a mesma assinatura.
+
+## Eventos
+
+Eventos é um mecanismo de comunicação entre objetos, onde existe um publisher, que realiza o evento e o subscriber, que se inscreve em um evento.
+
 
 
