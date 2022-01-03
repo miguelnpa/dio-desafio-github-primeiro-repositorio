@@ -1,0 +1,16 @@
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.exe
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.deps.json
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.json
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.dev.json
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.dll
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\bin\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.pdb
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfo.cs
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.dll
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.pdb
+C:\DIO\dio-repositorio\Construtores_Propriedades_Delegates\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.genruntimeconfig.cache

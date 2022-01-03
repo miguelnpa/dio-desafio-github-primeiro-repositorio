@@ -87,3 +87,5 @@ Path - Serve para organizar os caminhos de mateira lógica para trabalhar com Fi
 
 Path.combine são um conjunto de objeto/método que ajudam na criação de diretórios.
 
+# Construtores, Propriedades, Delegates e Eventos em .NET
+
